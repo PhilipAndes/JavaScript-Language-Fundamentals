@@ -17,3 +17,6 @@ Files: index.html + app.v3.js
 4. Switches:<br>
 Files: index.html + app.v4.js
 
+4. Function Declarations & Expressions:<br>
+Files: index.html + app.v5.js
+
