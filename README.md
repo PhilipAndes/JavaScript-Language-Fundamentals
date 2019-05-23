@@ -1,13 +1,16 @@
-# JavaScript Language Fundamentals
+# JavaScript Language Core Fundamentals
 
 - Started Coding: December 2018. 
 
 - Just some basic JavaScript practice
 
 <b>Lessons:</b>
-1.  Arrays & Array methods:<br>
+1. Arrays & Array methods:<br>
 Files: index.html + app.v1.js
 
-2. Core Fundamentals Object Literals:<br>
+2. Object Literals:<br>
 Files: index.html + app.v2.js
+
+3. Ternary Operator:<br>
+Files: index.html + app.v3.js
 
