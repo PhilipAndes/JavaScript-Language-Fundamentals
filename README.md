@@ -8,5 +8,6 @@
 1.  Arrays & Array methods:<br>
 Files: index.html + app.v1.js
 
-2. 
+2. Object Literals:<br>
+Files: index.html + app.v2.js
 
