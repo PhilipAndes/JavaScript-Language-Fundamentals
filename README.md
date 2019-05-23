@@ -14,3 +14,6 @@ Files: index.html + app.v2.js
 3. Ternary Operator:<br>
 Files: index.html + app.v3.js
 
+4. Switches:<br>
+Files: index.html + app.v4.js
+
