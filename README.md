@@ -4,6 +4,9 @@
 
 - Just some basic JavaScript practice
 
-<b>In this practice:</b>
-- Arrays 
+<b>Lessons:</b>
+1.  Arrays & Array methods:<br>
+Files: index.html + app.v1.js
+
+2. 
 
